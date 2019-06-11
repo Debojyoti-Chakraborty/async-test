@@ -1,0 +1,11 @@
+C:\Users\debojyoti\Desktop\AsyncTest\AsyncTest\obj\Debug\netcoreapp2.2\AsyncTest.csprojAssemblyReference.cache
+C:\Users\debojyoti\Desktop\AsyncTest\AsyncTest\obj\Debug\netcoreapp2.2\AsyncTest.csproj.CoreCompileInputs.cache
+C:\Users\debojyoti\Desktop\AsyncTest\AsyncTest\obj\Debug\netcoreapp2.2\AsyncTest.AssemblyInfoInputs.cache
+C:\Users\debojyoti\Desktop\AsyncTest\AsyncTest\obj\Debug\netcoreapp2.2\AsyncTest.AssemblyInfo.cs
+C:\Users\debojyoti\Desktop\AsyncTest\AsyncTest\bin\Debug\netcoreapp2.2\AsyncTest.deps.json
+C:\Users\debojyoti\Desktop\AsyncTest\AsyncTest\bin\Debug\netcoreapp2.2\AsyncTest.runtimeconfig.json
+C:\Users\debojyoti\Desktop\AsyncTest\AsyncTest\bin\Debug\netcoreapp2.2\AsyncTest.runtimeconfig.dev.json
+C:\Users\debojyoti\Desktop\AsyncTest\AsyncTest\bin\Debug\netcoreapp2.2\AsyncTest.dll
+C:\Users\debojyoti\Desktop\AsyncTest\AsyncTest\bin\Debug\netcoreapp2.2\AsyncTest.pdb
+C:\Users\debojyoti\Desktop\AsyncTest\AsyncTest\obj\Debug\netcoreapp2.2\AsyncTest.dll
+C:\Users\debojyoti\Desktop\AsyncTest\AsyncTest\obj\Debug\netcoreapp2.2\AsyncTest.pdb
